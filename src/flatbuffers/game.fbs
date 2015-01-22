@@ -1,0 +1,8 @@
+namespace crawl;
+
+table Game {
+  /// defines the list of levels in the game
+  levels:[string];
+}
+
+root_type Game;
